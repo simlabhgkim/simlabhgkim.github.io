@@ -22,10 +22,10 @@ function blog_posts() {
 
     // keeping it static, can be fetched from a blog dynamically as well
     let posts = [
-        {
-            url: 'https://sites.google.com/cbchoi.info/sim/home',
-            title: 'Computer Simulation Lab (SIMLAB)',
-        },
+           {
+               url: 'https://sites.google.com/cbchoi.info/sim/home',
+               title: 'Computer Simulation Lab (SIMLAB)',
+           },
 //         {
 //             url: 'https://www.nagekar.com/2017/08/privacy.html',
 //             title: 'Privacy - How I Converted',
