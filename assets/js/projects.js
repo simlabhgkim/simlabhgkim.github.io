@@ -15,8 +15,8 @@ let render_projects = (slug) => {
             link: 'https://github.com/cbchoi/fmonsys',
             title: 'Fmonsys',
             demo: 'https://mporter.co',
-            technologies: ['Flask', 'Celery', 'Python'],
-            description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
+            technologies: ['Telegram-bot', 'Simulation', 'Python', 'Databases'],
+            description: "Telegram Chat-bot for alarm from disasters.",
             categories: ['featured', 'webdev']
         },
 //         {
