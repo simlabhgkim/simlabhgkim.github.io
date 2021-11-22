@@ -17,7 +17,7 @@ let render_projects = (slug) => {
             demo: 'https://mporter.co',
             technologies: ['Telegram-bot', 'Simulation', 'Databases'],
             description: "Telegram Chat-bot for alarm from disasters.",
-            categories: ['featured', 'webdev']
+            categories: ['featured', 'database']
         },
 //         {
 //             image: 'assets/images/mobile-landscape.jpg',
