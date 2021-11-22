@@ -28,4 +28,4 @@ A simple and modern portfolio template that is lightweight, mobile responsive an
 ### License
 GPL -->
 
-Hello, simlabhgkim's Portfolio!!
+Hello, Thank's for comming!!
